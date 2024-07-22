@@ -23,7 +23,7 @@
       <url>https://github.com/zhaobaosheng/jwt-token-redis</url>
       <connection>scm:git:https://github.com/zhaobaosheng/jwt-token-redis.git</connection>
       <developerConnection>scm:git:https://github.com/zhaobaosheng/jwt-token-redis.git</developerConnection>
-      <tag>jwt-token-redis-1.2.0</tag>
+      <tag>jwt-token-redis-1.2.4</tag>
   </scm>
 
   <developers>
@@ -52,7 +52,7 @@
 	<dependency>
 	    <groupId>com.zdawn</groupId>
 	    <artifactId>jwt-token</artifactId>
-	    <version>1.2.0</version>
+	    <version>1.2.4</version>
 	</dependency>
 	<dependency>
 		<groupId>org.redisson</groupId>
