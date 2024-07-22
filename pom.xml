@@ -4,7 +4,7 @@
 
   <groupId>com.zdawn</groupId>
   <artifactId>jwt-token-redis</artifactId>
-  <version>1.2.3</version>
+  <version>1.2.4</version>
   <packaging>jar</packaging>
 
   <name>jwt-token-redis</name>
